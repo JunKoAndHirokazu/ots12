@@ -47,4 +47,4 @@ for extension in extension_list:
 	print("{}[EXTENTION] {}Le fichier {} a été corréctement chargé{}".format(bcolors.GREEN, bcolors.YELLOW, extension, bcolors.END))
 
 
-bot.run("NjgwNDg5MTg0NjE1NzI3MjE3.XwjDPw.A9Td-rpYBOrX79mzgE9HXuSVzUE")
+bot.run("token")
